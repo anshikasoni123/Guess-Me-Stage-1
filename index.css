@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/blue-abstract-gradient-wave-vector-background_53876-111548.jpg?w=2000');
+    font-family: 'Pangolin', cursive;
+}
+
+.title {
+    font-size: 8em;
+    color:black;
+}
+.rep_input {
+    text-decoration: underline;
+}
+.display_inline {
+    display: inline;
+    padding: 0.5em;
+}
